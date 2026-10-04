@@ -233,4 +233,4 @@ This project is licensed under the **MIT License** — see the [LICENSE](./LICEN
 
 ## Acknowledgements
 
-Thanks to student teams who argued about "who did what" — this project exists because of those debates. Thanks to the open-source ML community (PyTorch, Hugging Face, Kaggle, Colab, arXiv, Stack Overflow) whose docs, datasets, and papers make evidence-based contribution tracking possible. Thanks to [FastAPI](https://fastapi.tiangolo.com/), [React](https://react.dev/), and [Framer Motion](https://www.framer.com/motion/) for the modern full-stack foundations.
+Thanks to the open-source ML community (PyTorch, Hugging Face, Kaggle, Colab, arXiv, Stack Overflow) whose docs, datasets, and papers make evidence-based contribution tracking possible. Thanks to [FastAPI](https://fastapi.tiangolo.com/), [React](https://react.dev/), and [Framer Motion](https://www.framer.com/motion/) for the modern full-stack foundations.
